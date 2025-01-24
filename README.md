@@ -22,7 +22,7 @@ Aplikasi manajemen untuk Pertashop dengan fitur pencatatan stok, penjualan, dan 
 
 1. Clone repository ini atau download source code
 ```bash
-git clone <repository-url>
+git clone https://github.com/whitehat57/pertashop.git
 cd pertashop
 ```
 
